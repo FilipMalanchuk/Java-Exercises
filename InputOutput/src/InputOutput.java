@@ -30,7 +30,26 @@ public class InputOutput {
 		break;
 		case 10: ExN10.exN10();
 		break;
-		
+		case 11: ExN11.exN11();
+		break;
+		case 12: ExN12.exN12();
+		break;
+		case 13: ExN13.exN13();
+		break;
+		case 14: ExN14.exN14();
+		break;
+		case 15: ExN15.exN15();
+		break;
+		case 16: ExN16.exN16();
+		break;
+		case 17: ExN17.exN17();
+		break;
+		case 18: ExN18.exN18();
+		break;
+		case 19: ExN19.exN19();
+		break;
+		case 20: ExN20.exN20();
+		break;
 		
 		
 		
