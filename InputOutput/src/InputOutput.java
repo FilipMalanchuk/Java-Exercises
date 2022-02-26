@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class InputOutput {
 
 	public static void main(String[] args) {
-		System.out.println("¬ведите номер задачи которую хотите запустить");
+		System.out.println("¬ведите номер задачи которую хотите запустить(1 - 20)");
 		Scanner scanner = new Scanner(System.in);
 		int exToCheck = scanner.nextInt();
 		
